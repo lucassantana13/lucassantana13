@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Welcome to my mind. 
+## i'm starting my dev career and im very keen to gain knowledge in the area.
 
 <!--
 **lucassantana13/lucassantana13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
